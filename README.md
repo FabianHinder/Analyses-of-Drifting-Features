@@ -1,6 +1,6 @@
 # On the Fine-structure of Drifting Features
 
-Experimental code of conference paper. [Paper](TODO) 
+Experimental code of conference paper. [Paper](https://www.esann.org/sites/default/files/proceedings/2024/ES2024-89.pdf) 
 
 ## Abstract
 
@@ -21,7 +21,13 @@ To run the experiments, there are three stages 1. create the datasets (`--make`)
 
 Cite our Paper
 ```
-TODO
+@inproceedings{hinder2024fine,
+  title={On the fine-structure of drifting features},
+  author={Hinder, Fabian and Vaquet, Valerie and Hammer, Barbara},
+  booktitle={32nd European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN},
+  pages={9--11},
+  year={2024}
+}
 ```
 
 ## License
